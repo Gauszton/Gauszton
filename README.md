@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauszton
-- 👀 I’m interested in security
-- 🌱 I’m currently learning bash java and python
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Bash, Java, Powershell and Python
 - 📫 How to reach me at twitter.com/gauszton
 
 <!---
